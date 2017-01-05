@@ -71,7 +71,7 @@ As long as your prose does not become too slangy or informal, it's perfectly
 acceptable to use contractions in our documentation. Make sure to use
 apostrophes correctly.
 
-### Use of dashes in a sentence.
+### Use of dashes in a sentence
 
 Dashes refers to the en dash (–) and the em dash (—). Dashes can be used to
 separate parenthetical material.
